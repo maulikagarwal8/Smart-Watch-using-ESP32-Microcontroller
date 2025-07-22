@@ -13,6 +13,17 @@ The ESP-32’s built-in Wi-Fi and Bluetooth capabilities allow for seamless data
 ## Circuit Diagram
 <img src="./Circuit_Diagram.jpeg" alt="Circuit Diagram" height="400px"/>
 
+## Components Used
+1. Esp-32 Microcontroller
+2. Accelerometer (MPU6050)
+3. Multipurpose PCB 
+4. Temperature sensor (LM35)
+5. RTC DS1307
+6. Gps Sensor 
+7. Potentiometer (10Kohm) 
+8. Jumper wires 
+9. Led Display (16x2)
+
 ## Pin Configuration for Various Components for ESP32-based Smart Watch 
 | **Component**                    | **ESP32 Pin(s)**                                     |
 |----------------------------------|------------------------------------------------------|
