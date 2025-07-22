@@ -11,8 +11,9 @@ The ESP-32’s built-in Wi-Fi and Bluetooth capabilities allow for seamless data
 6. Telegram Bot channel: It detect the fall and  informed through the telegram that the fall is detected.
 
 ## Circuit Diagram
+<img src="./Circuit_Diagram.jpeg" alt="Circuit Diagram" height="400px"/>
 
-## Pin Configuration for Components ESP32-based Smart Watch 
+## Pin Configuration for Various Components for ESP32-based Smart Watch 
 | **Component**                    | **ESP32 Pin(s)**                                     |
 |----------------------------------|------------------------------------------------------|
 | LM35 (Temperature Sensor)        | GPIO34 (VP)                                          |
